@@ -1,17 +1,17 @@
 {
-  "name": "jsonresume-theme-paper",
-  "version": "0.3.2",
-  "description": "A theme for JSON Resume",
+  "name": "jsonresume-theme-papier",
+  "version": "0.1.1",
+  "description": "Un thème pour JSON Resume",
   "author": "Tim Daubenschütz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TimDaub/jsonresume-theme-paper"
+    "url": "https://github.com/omigeot/jsonresume-theme-papier"
   },
   "license": "MIT",
   "dependencies": {
     "handlebars": "^2.0.0-alpha.4"
   },
-  "homepage": "https://github.com/TimDaub/jsonresume-theme-paper",
+  "homepage": "https://github.com/omigeot/jsonresume-theme-papier",
   "main": "index.js",
   "scripts": {
     "start": "resume serve"
