@@ -195,7 +195,7 @@
 					            <p>
 					          {{/if}}
 					            	{{#if website}}
-													<strong>{{position}}</strong> at <strong><a href="{{website}}">{{company}}:</a></strong>
+													<strong>{{position}}</strong> chez <strong><a href="{{website}}">{{company}}:</a></strong>
 												{{else}}
 					            		<strong>{{position}}</strong> chez <strong>{{company}}:</strong>
 					            	{{/if}}
