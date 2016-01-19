@@ -1,4 +1,6 @@
-# JSON-Resume-Paper
+# JSON-Resume-Papier
+
+This is a(nother) french version of the "Paper" JSON Resume theme.
 
 This is a theme for [JSON Resume](http://jsonresume.org/).
 It is available via npm:
